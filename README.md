@@ -34,7 +34,7 @@ The primary objectives of this dashboard are:
 Dashboard Landing Page / Executive Summary
   
 
-1. KPI Cards: Sales, Profit, Order Count
+1. KPI Cards: Sales, Profit, Quantity, Customer
 
 Sales vs Profit by Region (Bar Chart)
 
@@ -42,15 +42,15 @@ Monthly Sales Trend (Line Chart)
 
 2. Regional Analysis
  
-Map View of Sales by State
+Map View of Sales by Region
 
-Segment-wise Sales Distribution (Stacked Bar)
+Segment-wise Sales Distribution (Stacked Column)
 
 Profit Contribution by Region
 
 3. Customer Insights
 
-Top 10 Customers by Sales (Bar)
+Top 3 Customers by Sales (Bar)
 
 Customer Profitability (Scatter Plot or Matrix)
 
@@ -58,22 +58,21 @@ Customer Segment Breakdown (Donut Chart)
 
 4. Product Performance
 
-Tree Map of Category > Sub-Category Sales
+Sales by Region and Category(Drill Down Donut Pro)
 
 Top Products by Profit
-Quantity Sold Trend
+
+Sales & Profit Trend(Line & Stacked Column Chart)
 ________________________________________
 Filters and Slicers Used
 
-•	Date Range: Order Date
+•	Year
 
 •	Region
 
 •	Segment
 
 •	Category/Sub-Category
-
-•	Customer Name
 
 These slicers ensure interactive exploration and customized views for business users.
 
