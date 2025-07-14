@@ -13,7 +13,7 @@ The primary objectives of this dashboard are:
 •	To observe sales trends and support business forecasting.
 
 ##Screenshot/Demos
+
 #How the Dashboard looks like. - ![Alt Text](https://github.com/s-barman/Sales-Profit-Analysis-dashboard-using-Power-BI/blob/main/Screenshot_Superstore_Dashboard.png)
-![Dashboard Preview](https://github.com/s-barman/Sales-Profit-Analysis-dashboard-using-Power-BI/blob/main/Screenshot_Superstore_Dashboard.png)
 
 
