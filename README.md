@@ -14,6 +14,6 @@ The primary objectives of this dashboard are:
 
 ## Screenshot/Demos
 
-# How the Dashboard looks like. - ![Alt Text](https://github.com/s-barman/Sales-Profit-Analysis-dashboard-using-Power-BI/blob/main/Screenshot_Superstore_Dashboard.png)
+## How the Dashboard looks like. - ![Alt Text](https://github.com/s-barman/Sales-Profit-Analysis-dashboard-using-Power-BI/blob/main/Screenshot_Superstore_Dashboard.png)
 
 
